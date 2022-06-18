@@ -17,7 +17,7 @@
     a{
         text-decoration-line: none; 
         text-decoration: none;
-        color: aliceblue;
+        color: rgb(0, 0, 0);
     }
     table{
         font-size: 1.5em;
@@ -35,7 +35,7 @@
     }
     table thead tr{
         height: 60px;
-        background: #36304a;
+        background: #e8f160;
     }
     footer {
         position: flex;
@@ -53,7 +53,7 @@
         font-size: 40px;
     }
     .bar{
-        background-color: #32355d;
+        background-color: #0af3ad;
         display: flex;
         justify-content: space-around;
         align-items: center;
@@ -62,7 +62,7 @@
     }
     .homepage{font-size: 25px;font-weight: bold;padding-left: 20px; }
     .small_title{margin-left: 50px;}
-    .Context_box{margin-left: 15%; margin-right:15%; border: 2px solid black; padding: 10px;font-size: 25px;background-color:rgb(253, 255, 157);border-radius: 10px;}
+    .Context_box{margin-left: 15%; margin-right:15%; border: 2px solid black; padding: 10px;font-size: 25px;background-color:rgb(213, 238, 196);border-radius: 10px;}
     .sel-ca{float: right;}
 
     /*.Self_Intro{background-color: rgb(235, 203, 117);}*/
